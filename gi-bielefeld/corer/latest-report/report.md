@@ -1,5 +1,5 @@
 % Statistics for gi-bielefeld/corer
-% Generated for [gi-bielefeld/corer](https://github.com/gi-bielefeld/corer) with [NFDI4Microbiota/KPI-action](https://github.com/NFDI4Microbiota/KPI-action) at 2025-02-12 08:58 UTC.
+% Generated for [gi-bielefeld/corer](https://github.com/gi-bielefeld/corer) with [NFDI4Microbiota/KPI-action](https://github.com/NFDI4Microbiota/KPI-action) at 2025-02-12 09:02 UTC.
 
 
 ## Views
