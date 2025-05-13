@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gi-bielefeld/sans,15,4
+/gi-bielefeld/sans/actions,8,1
+/gi-bielefeld/sans/tree/cf1395ac3dd59ef46870ac48799233a38a8fb98d,3,1
+/gi-bielefeld/sans/tree/clowm-integration,3,1
+/gi-bielefeld/sans/actions/runs/14793114200/workflow,2,1
+/gi-bielefeld/sans/actions/workflows/publish-container.yml,2,1
+/gi-bielefeld/sans/commits/clowm-integration,2,1
+/gi-bielefeld/sans/compare/master...clowm-integration,2,1
+/gi-bielefeld/sans/actions/metrics/usage,1,1
+/gi-bielefeld/sans/actions/runs/13260463680/workflow,1,1
