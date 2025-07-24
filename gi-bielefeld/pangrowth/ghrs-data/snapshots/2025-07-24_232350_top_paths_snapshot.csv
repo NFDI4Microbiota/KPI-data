@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gi-bielefeld/pangrowth,8,6
+/gi-bielefeld/pangrowth/blob/main/data/panmatrix_ecoli_n48.txt,2,1
+/gi-bielefeld/pangrowth/blob/main/scripts/plot_core.py,2,1
+/gi-bielefeld/pangrowth/blob/main/scripts/plot_growth.py,2,1
+/gi-bielefeld/pangrowth/blob/main/data/core_q90_ecoli_n200.txt,1,1
+/gi-bielefeld/pangrowth/blob/main/data/fa/GCF_000784925.1_ASM78492v1_genomic.fna.gz,1,1
+/gi-bielefeld/pangrowth/blob/main/data/fa/GCF_001645235.2_ASM164523v2_genomic.fna.gz,1,1
+/gi-bielefeld/pangrowth/blob/main/data/fa/GCF_001677495.1_ASM167749v1_genomic.fna.gz,1,1
+/gi-bielefeld/pangrowth/blob/main/data/growth_ecoli_n12.txt,1,1
+/gi-bielefeld/pangrowth/blob/main/data/hist_ecoli_n12.txt,1,1
