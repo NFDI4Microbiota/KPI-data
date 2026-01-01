@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gi-bielefeld/sans,11,6
+/gi-bielefeld/sans/tree/clowm-integration,5,1
+/gi-bielefeld/sans/pulls,3,1
+/gi-bielefeld/sans/tree/clowm-integration/clowm,3,1
+/gi-bielefeld/sans/blob/clowm-integration/clowm/main.nf,2,1
+/gi-bielefeld/sans/compare,2,1
+/gi-bielefeld/sans/compare/clowm-integration...master,2,1
+/gi-bielefeld/sans/blob/clowm-integration/LICENSE,1,1
+/gi-bielefeld/sans/compare/clowm-integration...dgoebel97:update-nextflow-syntax,1,1
+/gi-bielefeld/sans/compare/master...dgoebel97:update-nextflow-syntax,1,1
