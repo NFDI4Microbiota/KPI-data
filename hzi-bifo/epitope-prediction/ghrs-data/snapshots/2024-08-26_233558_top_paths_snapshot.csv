@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,40,21
+/hzi-bifo/epitope-prediction/pulls,10,3
+/hzi-bifo/epitope-prediction/blob/master/LICENSE.md,4,2
+/hzi-bifo/epitope-prediction/blob/master/main.py,4,2
+/hzi-bifo/epitope-prediction/tree/master/model,4,2
+/hzi-bifo/epitope-prediction/tree/master/make_representations,4,1
+/hzi-bifo/epitope-prediction/fork,3,1
+/hzi-bifo/epitope-prediction/pull/10,3,1
+/hzi-bifo/epitope-prediction/blob/master/make_representations/sequencelist_representation.py,2,1
+/hzi-bifo/epitope-prediction/blob/master/score_fasta.py,2,1

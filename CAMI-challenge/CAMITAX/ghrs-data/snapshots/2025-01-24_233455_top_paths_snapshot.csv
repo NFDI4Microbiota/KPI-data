@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/CAMI-challenge/CAMITAX,8,7
+/CAMI-challenge/CAMITAX/blob/master/main.nf,2,1
+/CAMI-challenge/CAMITAX/blob/master/nextflow.config,2,1
+/CAMI-challenge/CAMITAX/blob/master/bin/camitaxonomy.py,1,1
+/CAMI-challenge/CAMITAX/blob/master/checkm.nf,1,1
+/CAMI-challenge/CAMITAX/blob/master/init.nf,1,1
+/CAMI-challenge/CAMITAX/blob/master/workflow.png,1,1
+/CAMI-challenge/CAMITAX/tree/master/bin,1,1

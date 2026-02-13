@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/traitar,33,25
+/hzi-bifo/traitar/blob/master/INSTALL.md,14,6
+/hzi-bifo/traitar/blob/master/traitar/hmmer2filtered_best.py,3,1
+/hzi-bifo/traitar/blob/master/traitar/data/sample_data/traitar_out/phenotype_prediction/phypat/feat_gffs/Listeria_ivanovii_WSLC3009_complete_annotation.gff,2,2
+/hzi-bifo/traitar/tree/master/traitar,2,2
+/hzi-bifo/traitar/blob/master/traitar/heatmap.py,2,1
+/hzi-bifo/traitar/blob/master/traitar/hmm2gff.py,2,1
+/hzi-bifo/traitar/blob/master/traitar/domtblout2gene_generic.py,1,1
+/hzi-bifo/traitar/blob/master/traitar/evaluation.py,1,1
+/hzi-bifo/traitar/blob/master/traitar/get_external_data.py,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,32,15
+/CAMI-challenge/AMBER/commits/dev,20,1
+/CAMI-challenge/AMBER/tree/master/cami_amber,6,2
+/CAMI-challenge/AMBER/tree/dev,5,1
+/CAMI-challenge/AMBER/graphs/traffic,4,1
+/CAMI-challenge/AMBER/commit/63be56f25b6cc29ed0751f6ee567a67c8ef434cf,3,1
+/CAMI-challenge/AMBER/tree/master/test,3,1
+/CAMI-challenge/AMBER/tree/master,2,2
+/CAMI-challenge/AMBER/blob/master/amber.py,2,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/utils/add_length_column.py,2,1

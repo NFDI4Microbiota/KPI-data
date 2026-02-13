@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,35,17
+/CAMI-challenge/AMBER/releases,6,1
+/CAMI-challenge/AMBER/graphs/traffic,5,1
+/CAMI-challenge/AMBER/commit/3d7499349a3d6294fed9640ffc4bf4c73c1c3c8d,4,1
+/CAMI-challenge/AMBER/tree/master/.circleci,3,1
+/CAMI-challenge/AMBER/tree/master/features,3,1
+/CAMI-challenge/AMBER/blob/master/amber.py,2,1
+/CAMI-challenge/AMBER/blob/master/.circleci/config.yml,2,1
+/CAMI-challenge/AMBER/blob/master/features/environment.py,2,1
+/CAMI-challenge/AMBER/blob/master/README.md,2,1

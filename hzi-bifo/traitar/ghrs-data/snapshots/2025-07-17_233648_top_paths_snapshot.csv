@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/traitar,64,38
+/hzi-bifo/traitar/tree/master/traitar,17,4
+/hzi-bifo/traitar/tree/master/traitar/data,7,3
+/hzi-bifo/traitar/tree/master/traitar/data/sample_data,7,3
+/hzi-bifo/traitar/blob/master/traitar/predict.py,7,1
+/hzi-bifo/traitar/blob/master/traitar/data/sample_data/traitar_out/phenotype_prediction/phypat/feat_gffs/Listeria_ivanovii_WSLC3009_complete_annotation.gff,6,6
+/hzi-bifo/traitar/blob/master/traitar/data/sample_data/traitar_out/phenotype_prediction/phypat/predictions_raw.txt,5,1
+/hzi-bifo/traitar/tree/master/traitar/data/sample_data/traitar_out,5,1
+/hzi-bifo/traitar/tree/master/traitar/data/sample_data/traitar_out/phenotype_prediction/phypat,5,1
+/hzi-bifo/traitar/tree/master/traitar/data/sample_data/traitar_out/phenotype_prediction/phypat/feat_gffs,4,2

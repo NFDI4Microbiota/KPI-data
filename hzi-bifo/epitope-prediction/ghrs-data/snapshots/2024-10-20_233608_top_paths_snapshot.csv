@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,15,12
+/hzi-bifo/epitope-prediction/pulse,3,1
+/hzi-bifo/epitope-prediction/actions,2,2
+/hzi-bifo/epitope-prediction/issues,2,2
+/hzi-bifo/epitope-prediction/projects,2,2
+/hzi-bifo/epitope-prediction/pulls,2,2
+/hzi-bifo/epitope-prediction/compare/master...master,2,1
+/hzi-bifo/epitope-prediction/tree/master,2,1
+/hzi-bifo/epitope-prediction/blob/master/aat/aat-lognormal.txt,1,1
+/hzi-bifo/epitope-prediction/blob/master/alignment/pairwise_align.py,1,1

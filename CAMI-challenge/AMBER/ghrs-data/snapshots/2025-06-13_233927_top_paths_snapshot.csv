@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,23,15
+//CAMI-challenge/AMBER,8,4
+/CAMI-challenge/AMBER/releases,3,2
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,2,2
+/CAMI-challenge/AMBER/tree/master/test,2,2
+/CAMI-challenge/AMBER/blob/master/requirements.txt,2,1
+/CAMI-challenge/AMBER/tree/master/cami_amber,2,1
+/CAMI-challenge/AMBER/blob/master/MANIFEST.in,1,1
+/CAMI-challenge/AMBER/blob/master/test/naughty_carson_2,1,1
+/CAMI-challenge/AMBER/blob/master/test/test_query_by_genome.out,1,1

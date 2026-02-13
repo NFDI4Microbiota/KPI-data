@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/OPAL,17,10
+/CAMI-challenge/OPAL/tree/master/cami_opal,4,1
+/CAMI-challenge/OPAL/tree/master/cami_i_challenge_submissions,3,1
+/CAMI-challenge/OPAL/tree/master,2,1
+/CAMI-challenge/OPAL/blob/97abf347cccbdc18e70b86c561c98eaad2a2ec23/README.md,1,1
+/CAMI-challenge/OPAL/blob/master/cami_i_challenge_submissions/high/gold_standard/species.png,1,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/metaphlan2.profile,1,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/plot_shannon.png,1,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg_filter1_normalized/by_tool/MetaPhlAn_2.9.21/beta_diversity_bc_species.png,1,1
+/CAMI-challenge/OPAL/blob/master/cami_opal/tsv2biom.py,1,1

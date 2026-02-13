@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,23,14
+/hzi-bifo/epitope-prediction/tree/master,4,2
+/hzi-bifo/epitope-prediction/blob/master/LICENSE.md,3,2
+/hzi-bifo/epitope-prediction/tree/master/input,3,2
+/hzi-bifo/epitope-prediction/issues,2,2
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-general.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-general.txt.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-genera.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-viral.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/model/svm-bcpreds.pickle,1,1

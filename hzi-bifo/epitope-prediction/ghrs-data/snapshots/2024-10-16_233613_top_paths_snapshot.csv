@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,11,11
+/hzi-bifo/epitope-prediction/tree/master,2,1
+/hzi-bifo/epitope-prediction/blob/master/aat/aat-lognormal.txt,1,1
+/hzi-bifo/epitope-prediction/blob/master/alignment/pairwise_align.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/misc/fastatoline.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/misc/linetofasta.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/misc/read_prediction.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/misc/transform.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/model/svm-bacterial.pickle,1,1
+/hzi-bifo/epitope-prediction/tree/master/aat,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,25,18
+/hzi-bifo/epitope-prediction/blob/master/misc/linetofasta.py,2,2
+/hzi-bifo/epitope-prediction/blob/master/misc/read_prediction.py,2,2
+/hzi-bifo/epitope-prediction/blob/master/misc/transform.py,2,2
+/hzi-bifo/epitope-prediction/blob/master/classifier/cross_validation.pyc,1,1
+/hzi-bifo/epitope-prediction/blob/master/misc/fastatoline.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/model/svm-bcpreds.pickle,1,1
+/hzi-bifo/epitope-prediction/blob/master/score_fasta.py,1,1
+/hzi-bifo/epitope-prediction/tree/master/classifier,1,1
+/hzi-bifo/epitope-prediction/tree/master/classifier/__pycache__,1,1

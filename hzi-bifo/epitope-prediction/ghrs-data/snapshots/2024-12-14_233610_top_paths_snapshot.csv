@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,18,14
+/hzi-bifo/epitope-prediction/tree/master/alignment,2,2
+/hzi-bifo/epitope-prediction/tree/master/model,2,2
+/hzi-bifo/epitope-prediction/tree/master/classifier,2,1
+/hzi-bifo/epitope-prediction/blob/master/alignment/pairwise_align.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/classifier/cross_validation.pyc,1,1

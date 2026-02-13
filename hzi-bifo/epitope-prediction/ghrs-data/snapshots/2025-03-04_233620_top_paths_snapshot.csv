@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,22,19
+/hzi-bifo/epitope-prediction/blob/master/main.py,8,4
+/hzi-bifo/epitope-prediction/tree/master,4,2
+/hzi-bifo/epitope-prediction/blob/master/score_fasta.py,3,3
+/hzi-bifo/epitope-prediction/tree/master/classifier,3,1
+/hzi-bifo/epitope-prediction/blob/master/make_representations/sequencelist_representation.py,2,2
+/hzi-bifo/epitope-prediction/tree/master/make_representations,2,2
+/hzi-bifo/epitope-prediction/tree/master/classifier/__pycache__,2,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-general.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-general.txt.normal,1,1

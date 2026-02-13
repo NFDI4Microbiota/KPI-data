@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,18,15
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,7,1
+/CAMI-challenge/AMBER/blob/master/test/goofy_hypatia_2,3,1
+/CAMI-challenge/AMBER/blob/master/test/summary.tsv,3,1
+/CAMI-challenge/AMBER/blob/master/test/test_query.binning,3,1
+/CAMI-challenge/AMBER/tree/master,3,1
+/CAMI-challenge/AMBER/blob/master/test/naughty_carson_2,2,1
+/CAMI-challenge/AMBER/blob/master/test/precision_recall.tsv,2,1
+/CAMI-challenge/AMBER/blob/master/test/unique_common.tsv,2,1
+/CAMI-challenge/AMBER/commit/3d7499349a3d6294fed9640ffc4bf4c73c1c3c8d,2,1

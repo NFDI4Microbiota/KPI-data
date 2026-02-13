@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,23,19
+/hzi-bifo/epitope-prediction/blob/master/main.py,5,1
+/hzi-bifo/epitope-prediction/blob/master/README.md,2,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-general.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-general.txt.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-genera.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/aap/aap-viral.normal,1,1
+/hzi-bifo/epitope-prediction/blob/master/classifier/cross_validation.pyc,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/example.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/multi.fasta,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,35,12
+/CAMI-challenge/AMBER/tree/master,14,3
+/CAMI-challenge/AMBER/tree/master/cami_amber,8,2
+/CAMI-challenge/AMBER/blob/master/amber.py,5,1
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,4,3
+/CAMI-challenge/AMBER/blob/master/cami_amber/utils/convert_fasta_bins_to_biobox_format.py,4,2
+/CAMI-challenge/AMBER/blob/master/cami_amber/utils/load_data.py,4,1
+/CAMI-challenge/AMBER/pull/62/commits,4,1
+/CAMI-challenge/AMBER/tree/master/test,4,1
+/CAMI-challenge/AMBER/tree/master/cami_ii_mouse_gut,3,3

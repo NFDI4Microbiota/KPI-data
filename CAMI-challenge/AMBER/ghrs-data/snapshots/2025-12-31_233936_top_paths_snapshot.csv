@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,16,11
+/CAMI-challenge/AMBER/issues,2,2
+/CAMI-challenge/AMBER/releases/tag/v2.0.7,2,1
+/CAMI-challenge/AMBER/actions,1,1
+/CAMI-challenge/AMBER/actions/runs/12764182277,1,1
+/CAMI-challenge/AMBER/actions/runs/12764182277/job/35575846023,1,1
+/CAMI-challenge/AMBER/actions/runs/12764182277/job/35575846027,1,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/plot_by_genome.py,1,1
+/CAMI-challenge/AMBER/blob/master/cami_i_hc/amber_v0.6.3.html,1,1
+/CAMI-challenge/AMBER/blob/master/cami_ii_mouse_gut/heatmap_bar.png,1,1

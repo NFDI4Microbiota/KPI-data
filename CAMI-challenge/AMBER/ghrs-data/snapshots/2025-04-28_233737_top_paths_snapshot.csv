@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,16,12
+/CAMI-challenge/AMBER/blob/master/README.md,3,2
+/CAMI-challenge/AMBER/blob/master/amber.py,2,2
+/CAMI-challenge/AMBER/blob/master/test/elated_franklin_0,1,1
+/CAMI-challenge/AMBER/blob/master/test/goofy_hypatia_2,1,1
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,1,1
+/CAMI-challenge/AMBER/blob/master/test/precision_recall.tsv,1,1
+/CAMI-challenge/AMBER/blob/master/test/summary.tsv,1,1
+/CAMI-challenge/AMBER/blob/master/test/test_query.binning,1,1
+/CAMI-challenge/AMBER/blob/master/test/test_query_by_genome.out,1,1

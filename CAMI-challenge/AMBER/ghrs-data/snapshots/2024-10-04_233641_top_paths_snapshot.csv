@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,25,15
+/CAMI-challenge/AMBER/blob/master/cami_amber/precision_recall_per_bin.py,7,2
+/CAMI-challenge/AMBER/tree/master/cami_ii_mouse_gut,5,4
+/CAMI-challenge/AMBER/tree/master/cami_i_hc,5,3
+/CAMI-challenge/AMBER/tree/master/cami_i_hc/genome,5,3
+/CAMI-challenge/AMBER/tree/master/cami_amber,5,2
+/CAMI-challenge/AMBER/blob/master/cami_amber/evaluate.py,4,3
+/CAMI-challenge/AMBER/blob/master/amber.py,4,2
+/CAMI-challenge/AMBER/blob/master/cami_amber/__init__.py,4,2
+/CAMI-challenge/AMBER/blob/master/cami_amber/unifrac_distance.py,4,2

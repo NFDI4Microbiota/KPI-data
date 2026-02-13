@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,33,18
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,4,1
+/CAMI-challenge/AMBER/issues,3,1
+/CAMI-challenge/AMBER/tree/master/test,3,1
+/CAMI-challenge/AMBER/issues/60,2,2
+/CAMI-challenge/AMBER/blob/master/amber.py,2,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/amber_html.py,2,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/evaluate.py,2,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/precision_recall_per_bin.py,2,1
+/CAMI-challenge/AMBER/blob/master/test/naughty_carson_2,2,1

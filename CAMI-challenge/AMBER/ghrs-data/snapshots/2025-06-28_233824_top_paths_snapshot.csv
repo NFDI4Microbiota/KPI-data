@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,15,11
+/CAMI-challenge/AMBER/blob/master/cami_amber/amber_html.py,5,1
+/CAMI-challenge/AMBER/blob/master/amber.py,4,2
+/CAMI-challenge/AMBER/blob/master/test/unique_common.tsv,4,1
+/CAMI-challenge/AMBER/blob/master/README.md,3,1
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,3,1
+/CAMI-challenge/AMBER/blob/master/cami_ii_mouse_gut_filter1/heatmap_bar.png,2,1
+/CAMI-challenge/AMBER/blob/master/cami_ii_mouse_gut_filter1/index.html,2,1
+/CAMI-challenge/AMBER/blob/master/Dockerfile,2,1
+/CAMI-challenge/AMBER/blob/master/setup.py,2,1

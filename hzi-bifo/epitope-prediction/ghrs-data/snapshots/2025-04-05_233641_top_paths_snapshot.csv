@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,23,18
+/hzi-bifo/epitope-prediction/blob/master/main.py,3,1
+/hzi-bifo/epitope-prediction/tree/master/classifier,2,2
+/hzi-bifo/epitope-prediction/blob/master/alignment/pairwise_align.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/classifier/cross_validation.pyc,1,1
+/hzi-bifo/epitope-prediction/blob/master/requirement/requirements.txt,1,1
+/hzi-bifo/epitope-prediction/tree/master/alignment,1,1
+/hzi-bifo/epitope-prediction/tree/master/model,1,1
+/hzi-bifo/epitope-prediction/tree/master/requirement,1,1

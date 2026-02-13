@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,16,12
+/hzi-bifo/epitope-prediction/blob/master/input/example.fasta,3,2
+/hzi-bifo/epitope-prediction/blob/master/output/output.txt,3,2
+/hzi-bifo/epitope-prediction/tree/master/input,3,2
+/hzi-bifo/epitope-prediction/tree/master/output,2,2
+/hzi-bifo/epitope-prediction/blob/master/input/multi.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/small.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/test.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/master/LICENSE.md,1,1
+/hzi-bifo/epitope-prediction/tree/master/model,1,1
