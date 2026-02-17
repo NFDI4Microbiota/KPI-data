@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/OPAL,20,12
+/CAMI-challenge/OPAL/tree/master/cami_opal,3,1
+/CAMI-challenge/OPAL/blob/master/data/biobox_cami_ii_mg.yaml,2,1
+/CAMI-challenge/OPAL/blob/master/data/cranky_wozniak_13,2,1
+/CAMI-challenge/OPAL/tree/master,2,1
+/CAMI-challenge/OPAL/tree/master/cami_opal/utils,2,1
+/CAMI-challenge/OPAL/blob/master/EXAMPLES.md,1,1
+/CAMI-challenge/OPAL/blob/master/cami_opal/binary_metrics.py,1,1
+/CAMI-challenge/OPAL/blob/master/cami_opal/evaluate.py,1,1
+/CAMI-challenge/OPAL/blob/master/cami_opal/tsv2biom.py,1,1
