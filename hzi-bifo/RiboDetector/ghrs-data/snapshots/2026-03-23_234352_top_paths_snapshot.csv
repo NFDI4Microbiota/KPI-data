@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/RiboDetector,118,79
+/hzi-bifo/RiboDetector/blob/pip/README.md,13,3
+/hzi-bifo/RiboDetector/tree/pip/ribodetector,10,5
+/hzi-bifo/RiboDetector/blob/pip/ribodetector/model/model_cpu.py,9,1
+/hzi-bifo/RiboDetector/issues,8,3
+/hzi-bifo/RiboDetector/releases,4,3
+/hzi-bifo/RiboDetector/blob/pip/ribodetector/detect_cpu.py,4,2
+/hzi-bifo/RiboDetector/issues/1,4,1
+/hzi-bifo/RiboDetector/releases/tag/v0.3.3,3,3
+/hzi-bifo/RiboDetector/blob/pip/ribodetector/base/base_model.py,3,1
