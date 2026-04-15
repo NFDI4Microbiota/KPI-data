@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/CAMISIM,116,66
+/CAMI-challenge/CAMISIM/wiki/User-manual,42,26
+/CAMI-challenge/CAMISIM/tree/master/CAMI1_documentation,16,7
+/CAMI-challenge/CAMISIM/tree/master,16,4
+/CAMI-challenge/CAMISIM/tree/master/nextflow_defaults,15,4
+/CAMI-challenge/CAMISIM/blob/master/pipelines/metagenomic/config/distribution.config,12,4
+/CAMI-challenge/CAMISIM/blob/7ce6013c6d5a0fac8ba8a80e52a03560d3546fa6/pipelines/metagenomic/scripts/get_genomes.py,12,1
+/CAMI-challenge/CAMISIM/tree/master/pipelines,11,4
+/CAMI-challenge/CAMISIM/tree/master/nextflow_defaults/metagenomic,11,3
+/CAMI-challenge/CAMISIM/pull/243,11,2
