@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,14,11
+/hzi-bifo/epitope-prediction/blob/master/README.md,4,2
+/hzi-bifo/epitope-prediction/tree/master,4,1
+/hzi-bifo/epitope-prediction/blob/master/input/multi.fasta,2,1
+/hzi-bifo/epitope-prediction/blame/master/input/multi.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/7352f603d6cd9c4b0fa45a32365fd0a33b5af3a1/model/lbtope/aap-general.txt.normal,1,1
+/hzi-bifo/epitope-prediction/blob/f37fa6f8400c13f9e48412341a87e7d204c0690d/model/bcpreds/svm-general.pickle,1,1
+/hzi-bifo/epitope-prediction/blob/f37fa6f8400c13f9e48412341a87e7d204c0690d/model/lbtope/svm-lbtope.pickle,1,1
+/hzi-bifo/epitope-prediction/blob/f37fa6f8400c13f9e48412341a87e7d204c0690d/model/viral/aap-general.txt.normal,1,1
+/hzi-bifo/epitope-prediction/blob/f37fa6f8400c13f9e48412341a87e7d204c0690d/model/viral/aat-general.txt.normal,1,1
