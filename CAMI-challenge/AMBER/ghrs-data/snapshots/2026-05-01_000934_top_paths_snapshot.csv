@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,35,20
+/CAMI-challenge/AMBER/issues,9,3
+/CAMI-challenge/AMBER/releases,4,3
+/CAMI-challenge/AMBER/issues/65,4,1
+/CAMI-challenge/AMBER/pulse,3,2
+/CAMI-challenge/AMBER/tree/master,3,2
+/CAMI-challenge/AMBER/tree/master/cami_ii_mouse_gut,3,1
+/CAMI-challenge/AMBER/blob/master/.gitattributes,1,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/binning_classes.py,1,1
+/CAMI-challenge/AMBER/blob/master/cami_ii_mouse_gut/heatmap_bar.png,1,1
