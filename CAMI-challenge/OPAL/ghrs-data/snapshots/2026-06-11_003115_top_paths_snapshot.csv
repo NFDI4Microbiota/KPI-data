@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/OPAL,37,23
+/CAMI-challenge/OPAL/releases,4,3
+/CAMI-challenge/OPAL/blob/master/requirements.txt,4,2
+/CAMI-challenge/OPAL/tree/master/data,3,3
+/CAMI-challenge/OPAL/releases/tag/v1.0.14,3,2
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/focus.profile,2,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/by_tool/MetaPhlAn_2.9.21/beta_diversity_bc_genus.png,1,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/by_tool/mOTUs_1.1/beta_diversity_bc_species.png,1,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/gold_standard/class.png,1,1
+/CAMI-challenge/OPAL/blob/master/cami_ii_mg/gold_standard/genus.png,1,1
