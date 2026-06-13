@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,29,18
+/CAMI-challenge/AMBER/releases,4,3
+/CAMI-challenge/AMBER/blob/master/README.md,2,2
+/CAMI-challenge/AMBER/issues,2,1
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,1,1
+/CAMI-challenge/AMBER/blob/master/version.py,1,1
+/CAMI-challenge/AMBER/compare/{{ urlEncodedRefName }}...master,1,1
+/CAMI-challenge/AMBER/releases/tag/v2.0.8,1,1
+/CAMI-challenge/AMBER/tree/master/cami_ii_mouse_gut,1,1
+/CAMI-challenge/AMBER/tree/master/test,1,1
