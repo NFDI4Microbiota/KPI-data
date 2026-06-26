@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/traitar,42,30
+/hzi-bifo/traitar/blob/master/INSTALL.md,11,5
+/hzi-bifo/traitar/blob/master/traits.tsv,8,6
+/hzi-bifo/traitar/blob/master/README.md,3,3
+/hzi-bifo/traitar/issues,2,2
+/hzi-bifo/traitar/pulls,2,2
+/aweimann/traitar/compare/master...hzi-bifo:traitar:master,1,1
+/hzi-bifo/traitar/blob/master/setup.py,1,1
+/hzi-bifo/traitar/blob/master/traitar/data/sample_data/traitar_out/phenotype_prediction/heatmap_combined.png,1,1
+/hzi-bifo/traitar/blob/master/traitar/domtblout2gene_generic.py,1,1
