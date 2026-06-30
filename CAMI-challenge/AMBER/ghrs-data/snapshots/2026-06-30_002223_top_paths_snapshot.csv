@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,26,18
+/CAMI-challenge/AMBER/releases/tag/v2.0.8,3,2
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,2,1
+/CAMI-challenge/AMBER/releases,2,1
+/CAMI-challenge/AMBER/blob/master/version.py,1,1
+/CAMI-challenge/AMBER/compare/master...SantaMcCloud:AMBER:master,1,1
+/CAMI-challenge/AMBER/issues,1,1
+/CAMI-challenge/AMBER/pull/66,1,1
+/CAMI-challenge/AMBER/pulls,1,1
+/CAMI-challenge/AMBER/security/dependabot,1,1
