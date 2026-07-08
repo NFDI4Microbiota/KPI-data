@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BiBiServ/bibigrid,6,4
+/BiBiServ/bibigrid/issues,4,3
+/BiBiServ/bibigrid/pulls,3,2
+/BiBiServ/bibigrid/blob/master/bibigrid.yaml,3,1
+/BiBiServ/bibigrid/tree/master/bibigrid/resources/playbook/roles/bibigrid,3,1
+/BiBiServ/bibigrid/discussions,2,2
+/BiBiServ/bibigrid/blob/master/bibigrid/resources/playbook/roles/bibigrid/tasks/006-database.yaml,2,1
+/BiBiServ/bibigrid/blob/master/bibigrid/resources/playbook/roles/bibigrid/tasks/042-slurm-server.yaml,2,1
+/BiBiServ/bibigrid/blob/master/pyproject.toml,2,1
+/BiBiServ/bibigrid/graphs/contributors,2,1
