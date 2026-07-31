@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,25,13
+/CAMI-challenge/AMBER/tree/master/features,3,1
+/CAMI-challenge/AMBER/blob/master/test/goofy_hypatia_2,2,1
+/CAMI-challenge/AMBER/blob/master/test/gsa_mapping.binning,2,1
+/CAMI-challenge/AMBER/tree/master/cami_amber/utils,2,1
+/CAMI-challenge/AMBER/tree/master/features/steps,2,1
+/CAMI-challenge/AMBER/tree/master/test,2,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/binning_classes.py,1,1
+/CAMI-challenge/AMBER/blob/master/features/amber_stdout.feature,1,1
+/CAMI-challenge/AMBER/blob/master/features/steps/cli.py,1,1
