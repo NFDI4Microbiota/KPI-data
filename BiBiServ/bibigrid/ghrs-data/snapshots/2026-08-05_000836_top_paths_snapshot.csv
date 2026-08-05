@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/bibiserv/bibigrid,5,4
+/BiBiServ/bibigrid,3,3
+/BiBiServ/bibigrid/issues,2,2
+/BiBiServ/bibigrid/issues/154,2,2
+/BiBiServ/bibigrid/issues/185,2,2
+/BiBiServ/bibigrid/issues/222,2,2
+/BiBiServ/bibigrid/blob/8b4544de55e0a5dc53911a469de29e2e9a54a59f/docs/CONFIGURATION_SCHEMA.md,1,1
+/BiBiServ/bibigrid/blob/master/.github/workflows/linting.yml,1,1
+/BiBiServ/bibigrid/blob/master/bibigrid/resources/playbook/roles/bibigrid/files/disable-auto-upgrades.conf,1,1
+/BiBiServ/bibigrid/blob/master/bibigrid/resources/playbook/roles/bibigrid/files/enable-auto-upgrades.conf,1,1
