@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/RiboDetector,85,49
+/hzi-bifo/RiboDetector/issues,18,8
+/hzi-bifo/RiboDetector/tree/pip/ribodetector,7,4
+/hzi-bifo/RiboDetector/tree/pip/ribodetector/model,6,2
+/hzi-bifo/RiboDetector/blob/pip/ribodetector/model/model.py,4,1
+/hzi-bifo/RiboDetector/blob/pip/README.md,3,2
+/hzi-bifo/RiboDetector/tree/pip,3,2
+/hzi-bifo/RiboDetector/blob/42f4ae1402c1423e93c7d06aeed86355071cd0dd/ribodetector/model/model.py,3,1
+/hzi-bifo/RiboDetector/blob/pip/ribodetector/data/model_len70_101.onnx,3,1
+/hzi-bifo/RiboDetector/blob/pip/ribodetector/data/model_len70_101.pth,3,1
