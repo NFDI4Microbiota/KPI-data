@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BiBiServ/bibigrid,4,4
+/BiBiServ/bibigrid/pulls,3,1
+/BiBiServ/bibigrid/discussions,2,2
+/bibiserv/bibigrid,2,2
+/BiBiServ/bibigrid/issues/678,2,1
+/BiBiServ/bibigrid/pull/723/changes,2,1
+/BiBiServ/bibigrid/blob/49b97f9d0dd257790a8e3811324588e932d4ea45/bibigrid/resources/playbook/roles/bibigrid/tasks/020-disk-automount.yaml,1,1
+/BiBiServ/bibigrid/blob/6b0d85428954cd53babd070cc185c7e2321e9439/ChangeLog.md,1,1
+/BiBiServ/bibigrid/blob/dev/bibigrid/resources/defaults/slurm/slurm.j2,1,1
+/BiBiServ/bibigrid/blob/dev/bibigrid/resources/playbook/roles/bibigrid/tasks/020-disk-automount.yaml,1,1
