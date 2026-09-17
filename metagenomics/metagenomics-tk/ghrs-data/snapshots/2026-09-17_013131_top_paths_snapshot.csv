@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/metagenomics/metagenomics-tk,65,31
+/metagenomics/metagenomics-tk/releases,10,3
+/metagenomics/metagenomics-tk/issues,9,3
+/metagenomics/metagenomics-tk/commits/master,7,1
+/metagenomics/metagenomics-tk/tree/master/example_params,3,2
+/metagenomics/metagenomics-tk/tree/master/test_data,3,1
+/metagenomics/metagenomics-tk/releases/tag/0.16.0-rc.alpha,2,2
+/metagenomics/metagenomics-tk/tree/0600529ab720577646c4fc829150b0fc89ae54a9,2,2
+/metagenomics/metagenomics-tk/blob/dev/modules/binning/processes.nf,2,1
+/metagenomics/metagenomics-tk/forks,2,1
