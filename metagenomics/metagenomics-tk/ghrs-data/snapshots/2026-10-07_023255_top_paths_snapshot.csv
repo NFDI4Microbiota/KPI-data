@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/metagenomics/metagenomics-tk,44,29
+/metagenomics/metagenomics-tk/tree/fix/params-in-nextflow.config,12,1
+/metagenomics/metagenomics-tk/issues,9,2
+/metagenomics/metagenomics-tk/blob/fix/params-in-nextflow.config/nextflow.config,8,1
+/metagenomics/metagenomics-tk/compare/master...fix/params-in-nextflow.config,7,1
+/metagenomics/metagenomics-tk/pulls,5,1
+/metagenomics/metagenomics-tk/tree/0.4.4/default,5,1
+/metagenomics/metagenomics-tk/tree/0.4.0,4,2
+/metagenomics/metagenomics-tk/blob/0.4.4/default/fullPipeline_illumina_nanpore.yml,4,1
+/metagenomics/metagenomics-tk/branches,4,1
