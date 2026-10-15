@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/metagenomics/metagenomics-tk,34,26
+/metagenomics/metagenomics-tk/tree/fix/params-in-nextflow.config,12,1
+/metagenomics/metagenomics-tk/blob/fix/params-in-nextflow.config/nextflow.config,8,1
+/metagenomics/metagenomics-tk/branches,7,1
+/metagenomics/metagenomics-tk/compare/master...fix/params-in-nextflow.config,7,1
+/metagenomics/metagenomics-tk/tree/master/default,6,1
+/metagenomics/metagenomics-tk/issues,5,2
+/metagenomics/metagenomics-tk/tree/master/example_params,4,3
+/metagenomics/metagenomics-tk/blob/master/README.md,3,2
+/metagenomics/metagenomics-tk/blob/master/default/quickstart.yml,3,1
