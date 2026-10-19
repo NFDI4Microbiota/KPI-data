@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/epitope-prediction,4,3
+/hzi-bifo/epitope-prediction/blob/master/output/output.txt,4,1
+/hzi-bifo/epitope-prediction/tree/master/output,3,1
+/hzi-bifo/epitope-prediction/blob/master/README.md,1,1
+/hzi-bifo/epitope-prediction/blob/master/alignment/pairwise_align.py,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/example.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/multi.fasta,1,1
+/hzi-bifo/epitope-prediction/blob/master/input/test.fasta,1,1
+/hzi-bifo/epitope-prediction/tree/master,1,1
+/hzi-bifo/epitope-prediction/tree/master/alignment,1,1
