@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/metagenomics/metagenomics-tk,22,17
+/metagenomics/metagenomics-tk/tree/master/example_params,7,3
+/metagenomics/metagenomics-tk/tree/master/default,6,1
+/metagenomics/metagenomics-tk/blob/master/default/fullPipeline_illumina_nanpore.yml,5,2
+/metagenomics/metagenomics-tk/blob/master/README.md,4,3
+/metagenomics/metagenomics-tk/releases,4,2
+/metagenomics/metagenomics-tk/blob/master/test_data/SRA/ncbi_samples.tsv,3,2
+/metagenomics/metagenomics-tk/blob/master/default/quickstart.yml,3,1
+/metagenomics/metagenomics-tk/branches,3,1
+/metagenomics/metagenomics-tk/compare/master...0.14.3_clowm,3,1
