@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/BiBiServ/bibigrid/blob/db13bdfc/README.md,7,7
+/BiBiServ/bibigrid/blob/db13bdfc/bibigrid/core/actions/create.py,5,5
+/BiBiServ/bibigrid/blob/db13bdfc/bibigrid/core/utility/ansible_configurator.py,4,4
+/BiBiServ/bibigrid/blob/db13bdfc/bibigrid.yaml,2,2
+/BiBiServ/bibigrid/blob/db13bdfc/bibigrid/core/provider.py,2,2
+/BiBiServ/bibigrid/blob/db13bdfc/bibigrid/openstack/openstack_provider.py,2,2
+/BiBiServ/bibigrid/blob/db13bdfc/documentation/markdown/features/cloud_specification_data.md,2,2
+/BiBiServ/bibigrid/blob/db13bdfc/documentation/markdown/features/configuration.md,2,2
+/BiBiServ/bibigrid/blob/db13bdfc/documentation/markdown/software/slurm.md,2,2
+/BiBiServ/bibigrid/blob/master/documentation/markdown/features/configuration.md,2,2
