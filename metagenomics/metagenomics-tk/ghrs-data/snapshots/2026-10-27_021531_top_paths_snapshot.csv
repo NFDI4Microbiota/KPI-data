@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/metagenomics/metagenomics-tk,16,12
+/metagenomics/metagenomics-tk/actions,11,1
+/metagenomics/metagenomics-tk/issues,7,2
+/metagenomics/metagenomics-tk/tree/master/example_params,6,2
+/metagenomics/metagenomics-tk/actions/runs/39853813275/job/120977086219,6,1
+/metagenomics/metagenomics-tk/tree/master/default,6,1
+/metagenomics/metagenomics-tk/releases,5,3
+/metagenomics/metagenomics-tk/blob/master/default/fullPipeline_illumina_nanpore.yml,5,2
+/metagenomics/metagenomics-tk/actions/workflows/workflow_modules.yml,5,1
+/metagenomics/metagenomics-tk/pulls,5,1
