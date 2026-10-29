@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/hzi-bifo/RiboDetector,41,31
+/hzi-bifo/RiboDetector/blob/f6ad1654/README.md,15,15
+/hzi-bifo/RiboDetector/issues,8,5
+/hzi-bifo/RiboDetector/issues/56,4,2
+/hzi-bifo/RiboDetector/blob/f6ad1654/ribodetector/__init__.py,3,3
+/hzi-bifo/RiboDetector/blob/pip/setup.py,2,2
+/hzi-bifo/RiboDetector/issues/33,2,2
+/hzi-bifo/RiboDetector/releases/tag/v0.3.3,2,1
+/hzi-bifo/RiboDetector/tree/pip/ribodetector,2,1
+/hzi-bifo/RiboDetector/blob/f6ad1654/ribodetector/data_loader/seq_encoder.py,1,1
