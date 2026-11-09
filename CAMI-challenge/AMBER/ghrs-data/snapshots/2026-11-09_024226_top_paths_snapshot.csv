@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CAMI-challenge/AMBER,31,30
+/CAMI-challenge/AMBER/blob/master/README.md,6,6
+/CAMI-challenge/AMBER/blob/master/tutorial.txt,4,4
+/CAMI-challenge/AMBER/tree/dependabot/pip/pyarrow-23.0.1,3,3
+/CAMI-challenge/AMBER/commit/9040c4e0b5d01865d8fc99a097ca95c768d627f7,2,2
+/CAMI-challenge/AMBER/blob/6c7b8697556312070dd113aed259897060a864fb/README.md,1,1
+/CAMI-challenge/AMBER/blob/master/.circleci/config.yml,1,1
+/CAMI-challenge/AMBER/blob/master/.gitignore,1,1
+/CAMI-challenge/AMBER/blob/master/cami_amber/utils/convert_fasta_bins_to_biobox_format.py,1,1
+/CAMI-challenge/AMBER/blob/master/requirements.txt,1,1
